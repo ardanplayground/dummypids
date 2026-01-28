@@ -61,7 +61,7 @@ title_display = st.sidebar.text_input(
 # Pilihan Tipe View
 tipe_view = st.sidebar.radio(
     "Tipe Tampilan",
-    options=["Tabel", "Kolase"],
+    options=["Pejalan Kaki", "Kendaraan"],
     help="Pilih cara menampilkan jadwal kapal"
 )
 
