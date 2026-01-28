@@ -76,7 +76,7 @@ st.markdown("---")
 data_jadwal = generate_dummy_data()
 
 # Tampilan berdasarkan tipe view
-if tipe_view == "Tabel":
+if tipe_view == "Pejalan Kaki":
     # Tampilan Tabel
     st.subheader("📋 Daftar Jadwal Kapal")
     
